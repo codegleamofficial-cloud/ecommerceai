@@ -1,0 +1,5 @@
+{
+  "name": "EcomLens AI",
+  "description": "Professional AI product photography generator using Gemini 2.5 Flash Image. Upload a product photo and instantly generate e-commerce ready variations on white backgrounds, lifestyle settings, and more.",
+  "requestFramePermissions": []
+}
